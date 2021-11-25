@@ -1,9 +1,8 @@
 ### Olá, Eu sou o Douglas 👋
-
-<div align="center">
+  <div align="center">
   <a href="https://github.com/DougMelo411">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dougmelo411&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougmelo411&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DougMelo411&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougMelo411&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
